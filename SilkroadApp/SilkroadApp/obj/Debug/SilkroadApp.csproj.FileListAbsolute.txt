@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\bin\Debug\SilkroadApp.exe.config
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\bin\Debug\SilkroadApp.exe
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\bin\Debug\SilkroadApp.pdb
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.Form1.resources
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.exe
+C:\Users\Administrator\source\repos\SilkroadApp\SilkroadApp\obj\Debug\SilkroadApp.pdb
