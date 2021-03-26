@@ -21,8 +21,5 @@ namespace SilkroadApp
         [DllImport("user32.dll")]
         public static extern IntPtr FindWindowEx(IntPtr hWnd, string lpClassName, string lpWindowName, string lParam);
 
-        //Deneme
-        //Deneme 2
-
     }
 }
